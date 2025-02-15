@@ -5,11 +5,11 @@
 </p>
 
 <p align="left"> 
-  🌐 Linguagens de Programação: Python, SQL, JavaScript, TypeScript, C++
+  🌐 Linguagens de Programação: Python, SQL, JavaScript, C++
 </p>
 
 <p align="left"> 
-  💼 Ferramentas e Frameworks: Git, GitHub, HTML, CSS, React, Tailwind CSS, AWS
+  💼 Ferramentas e Frameworks: Git, GitHub, HTML, CSS, React, Tailwind CSS
 </p> 
 
 <p align="left">
