@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  💼 Ferramentas e Frameworks: Git, GitHub, HTML, CSS, React, Tailwind CSS
+  💼 Ferramentas e Frameworks: Git, GitHub, HTML, CSS, Tailwind CSS, React.js, Flask
 </p> 
 
 <p align="left">
