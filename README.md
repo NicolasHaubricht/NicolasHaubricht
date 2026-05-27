@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Nicolas Haubricht, sou estudante de Engenharia de Software na FIAP, atualmente no terceiro semestre. Me dedico ao aprendizado em desenvolvimento de software, IoT e análise de dados.
+  Olá! Meu nome é Nicolas Haubricht, sou estudante de Engenharia de Software na FIAP, atualmente no quinto semestre. Me dedico ao aprendizado em desenvolvimento de software, IoT e análise de dados.
 </p>
 
 <p align="left"> 
-  🌐 Linguagens de Programação: Python, SQL, JavaScript, C++
+  🌐 Linguagens de Programação: Python, JavaScript, TypeScript, C++
 </p>
 
 <p align="left"> 
-  💼 Ferramentas e Frameworks: Git, GitHub, HTML, CSS, Tailwind CSS, React.js, Flask
+  💼 Ferramentas e Frameworks: AWS, Git, GitHub, HTML, CSS, Tailwind CSS, React.js, SQL
 </p> 
 
 <p align="left">
